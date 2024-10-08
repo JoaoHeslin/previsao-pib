@@ -10,8 +10,8 @@ Este projeto realiza uma análise de séries temporais do PIB do Brasil utilizan
 
 ## Resultados
 
-- O modelo identificado foi o **ARIMA(0,0,0)(0,0,1)[10]** com um AIC de **1877.012**.
-- O teste de Ljung-Box indicou ausência de autocorrelação significativa nos resíduos (p-valor = 0.234).
+- O modelo identificado foi o **ARIMA(0,0,0)(0,0,1)[10]**.
+- O teste de Ljung-Box indicou ausência de autocorrelação significativa nos resíduos.
 - O tempo total de ajuste do modelo foi de **0.766 segundos**.
 
 ## Conclusão
